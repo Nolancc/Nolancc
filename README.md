@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student learning to code in my free time
+I am a student learning to code in my free time will be soon be taking a computer science course
 
 
 # 💻 Tech Stack:
